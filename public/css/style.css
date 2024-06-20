@@ -1,0 +1,14 @@
+.main{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    gap: 1rem;
+    flex-direction: column;
+}
+.field-items{
+    display: flex;
+    flex-direction: column;
+}
